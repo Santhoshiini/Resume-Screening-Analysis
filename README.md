@@ -57,5 +57,8 @@ Automate the resume shortlisting process by:
 
 ---
 
-## 📁 Folder Structure
+---
+
+Let me know if you want me to help with the `requirements.txt`, or even build a **Streamlit app version** of this project!
+
 
